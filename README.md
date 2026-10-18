@@ -4,7 +4,7 @@ Dashboard interativo de vendas de modelos Porsche, gerado com IA e publicado no 
 
 🔗 **Dashboard publicada:** https://melissayakushijin-oss.github.io/dashboard_porsche/
 
-![Visão geral da dashboard](img/dashboard.png)
+![Visão geral da dashboard](dashboard_semfiltros.png)
 
 ---
 
@@ -81,9 +81,9 @@ A base original ("BASE SANITIZED PORSCHE", aba "Sanitized") passou pelos seguint
 
 ## 5. Exemplo de filtro aplicado
 
-Com o filtro **Estado = TX**, a dashboard recalcula tudo: 14 vendas, faturamento de US$ 2.023.401, ticket médio de US$ 144.529 e nenhum cancelamento.
+Com o filtro **Estado = FL**, a dashboard recalcula tudo: 6 vendas, faturamento de US$ 566.600, ticket médio de US$ 94.433 e 1 cancelamento.
 
-![Dashboard filtrada pelo estado do Texas](img/filtro-tx.png)
+![Dashboard filtrada pelo estado da Flórida](dashboard_comfiltro.png)
 
 ## Funcionalidades
 
